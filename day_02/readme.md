@@ -1,8 +1,3 @@
-# 🐍 Day 1 - Basic Python Syntax & Data Types
-
-## Welcome to **Day 1** of my Python learning journey!  
-## In this folder, I’ve practiced the most fundamental Python concepts including syntax, operators, and data types.
-=======
 # 🐍 Day 2 - Conditional Statements & Decision Making
 
 Welcome to **Day 2** of my Python learning journey!  
